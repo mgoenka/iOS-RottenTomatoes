@@ -1,8 +1,6 @@
 iOS - Rotten Tomatoes
 ====
 
-iOS: Rotten Tomatoes App
-
 Hours: 12
 
 Work: All the required stories, and showing the DVDs view
